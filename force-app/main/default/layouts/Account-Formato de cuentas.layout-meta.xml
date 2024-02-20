@@ -23,6 +23,10 @@
                 <behavior>Edit</behavior>
                 <field>Test_Pipeline__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Live_Example__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
